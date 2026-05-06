@@ -53,7 +53,7 @@ This project performs an exploratory data analysis of 50,000+ restaurants listed
 3. **Price** — Luxury restaurants (₹1000 for two) rated higher than other restaurants on average
 4. **Online Ordering** — Restaurants accepting online orders rated slightly higher than those that don't. The difference in average rating was only 0.06
 5. **Restaurant Type** — Microbrewery, Pub  outperformed other types of restaurants withg the average rating of 4.45
-6. **Popularity vs Quality** — Votes and ratings show a moderate positive correlation of 0.46, suggesting popularity and quality do not always align"]
+6. **Popularity vs Quality** — Votes and ratings show a moderate positive correlation of 0.46, suggesting popularity and quality do not always align
 ## Dashboard
 View the interactive Power BI dashboard here:
 [Zomato Restaurant Analysis — Power BI Dashboard]()
