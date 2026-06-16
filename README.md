@@ -55,7 +55,8 @@ This project performs an exploratory data analysis of 50,000+ restaurants listed
 5. **Restaurant Type** — Microbrewery, Pub  outperformed other types of restaurants withg the average rating of 4.45
 6. **Popularity vs Quality** — Votes and ratings show a moderate positive correlation of 0.46, suggesting popularity and quality do not always align
 ## Dashboard
-View the interactive Power BI dashboard here:
+![Alt Text]("C:\Users\Sana Amreen\Desktop\Project\Zomato_dashboard.jpg" "Zomato Dashboard")
+the interactive Power BI dashboard here:
 [Zomato Restaurant Analysis — Power BI Dashboard]()
 
 ## What I Learned
