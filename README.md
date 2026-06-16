@@ -55,9 +55,7 @@ This project performs an exploratory data analysis of 50,000+ restaurants listed
 5. **Restaurant Type** — Microbrewery, Pub  outperformed other types of restaurants withg the average rating of 4.45
 6. **Popularity vs Quality** — Votes and ratings show a moderate positive correlation of 0.46, suggesting popularity and quality do not always align
 ## Dashboard
-![Alt Text]("C:\Users\Sana Amreen\Desktop\Project\Zomato_dashboard.jpg" "Zomato Dashboard")
-the interactive Power BI dashboard here:
-[Zomato Restaurant Analysis — Power BI Dashboard]()
+<img width="2075" height="1200" alt="Zomato_dashboard" src="https://github.com/user-attachments/assets/e5a14854-443a-4ff0-981e-fcf5e5f5b36e" />
 
 ## What I Learned
 - Handling and cleaning real-world messy data including multi-value columns, mixed format strings and inconsistent text
